@@ -1,0 +1,26 @@
+/* Base element styles */
+
+body {
+  background-color: var(--background-color);
+  color: var(--primary-color);
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3 {
+  color: var(--accent-color);
+}
+
+button {
+  background-color: var(--accent-color);
+  border: none;
+  padding: 0.25rem 1rem;
+  color: #fff;
+  border-radius: 1rem;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+:any-link {
+  color: var(--accent-color);
+}

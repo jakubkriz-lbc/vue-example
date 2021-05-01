@@ -1,0 +1,5 @@
+export const FETCH_RANDOM_JOKE = 'FETCH_RANDOM_JOKE'
+
+export const SAVE_JOKE = 'SAVE_JOKE'
+export const DELETE_JOKE = 'DELETE_JOKE'
+export const RESTORE_SAVED_JOKES = 'RESTORE_SAVED_JOKES'

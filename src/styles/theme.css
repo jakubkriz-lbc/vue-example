@@ -1,0 +1,10 @@
+/* Light color theme */
+
+:root {
+  --background-color: #f7fafb;
+  --primary-color: #2d3848;
+  --secondary-color: #728197;
+  --accent-color: #319694;
+  --cta-color: #3283ce;
+  --danger-color: #fb8181;
+}

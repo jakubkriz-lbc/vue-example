@@ -1,0 +1,10 @@
+/* Font Faces */
+
+@font-face {
+  font-family: "Roboto";
+  font-weight: 400;
+  font-style: normal;
+  font-display: auto;
+  unicode-range: U+000-5FF;
+  src: local("Roboto"), url("../../node_modules/typeface-roboto/files/roboto-latin-400.woff2") format("woff2"), url("../../node_modules/typeface-roboto/files/roboto-latin-400.woff") format("woff");
+}
